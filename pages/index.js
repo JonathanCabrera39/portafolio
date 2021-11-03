@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          subi sorete{' '}
+          subi soretesssss{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
