@@ -15,19 +15,19 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          subi soretesssss{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>anda ala concha no es lo mismo que otra cosas vio 123+iiuo</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Learn about Next.js in an int4587eractive cour quizzes!</p>
           </a>
 
           <a
